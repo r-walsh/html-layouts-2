@@ -1,0 +1,61 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+.clear {
+	clear: both;
+}
+.square {
+	width: 220px;
+	height: 130px;
+	float: left;
+	margin: 20px 0 20px 20px;
+}
+.red {
+	background-color: #C20016;
+}
+.blue {
+	background-color: #3B7ADB;
+}
+.gray {
+	background-color: #393939;
+	margin-right: 20px;
+}
+#content {
+	font-size: 1.2em;
+	font-weight: lighter;
+	margin: 0 15px;
+	line-height: 1.2em;
+}
+#red-rectangle {
+	width: 220px;
+	height: 290px;
+	float: left;
+	margin-left: 15px;
+	margin-top: 36px;
+}
+#blue-rectangle {
+	width: 475px;
+	height: 290px;
+	float: left;
+	margin-top: 36px;
+}
+#footer {
+	height: 130px;
+	width: 695px;
+	margin: 25px 0 0 15px;
+	padding: 0;
+}
+.red-bar {
+	width: 30px;
+	height: 130px;
+	float: right;
+	margin: 0;
+}
+#gray-box {
+	width: 160px;
+	height: 130px;
+	float: right;
+	margin: 0;
+}
